@@ -1,2 +1,3 @@
 # racket-RxRKT
-Learn From RxJS
+
+Reactive Programming in Racket, Learn From RxJS.
